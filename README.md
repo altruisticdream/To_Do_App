@@ -6,3 +6,4 @@ This app is used to read news I have build it using android studio.
 2. Java Language
 3. XML Language
 
+changes by ashutosh
